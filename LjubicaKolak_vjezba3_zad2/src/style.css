@@ -1,0 +1,12 @@
+
+body {
+  text-align: center;
+  background-color: #dcdcdc;
+  margin: 0;
+  margin-left: 10pt;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+select {
+  height: 25px;
+}

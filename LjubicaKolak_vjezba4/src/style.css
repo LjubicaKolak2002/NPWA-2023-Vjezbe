@@ -1,0 +1,54 @@
+
+* {
+  margin: 0;
+  margin-left: 10pt;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color:#ebebe0;
+}
+
+.selectDiv {
+  position: relative;
+  margin-left: 20%;
+  margin-top: 70px;
+}
+h3, h2{
+  margin-top: 40px;
+  color: rgb(26, 55, 26); 
+  position: relative;
+  margin-left: 3%;
+}
+
+h2 {
+  position: relative;
+  margin-left: 2px;
+}
+
+
+select {
+  height: 25px;
+}
+
+.filteredProductsDiv {
+  position: relative;
+  margin-left: 50%;
+  margin-top: -12%;
+}
+
+
+button {
+  background-color:  rgb(39, 77, 39);
+  color: white;
+  font-size: 14px;
+  padding: 7px 15px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  margin-left: 20px;
+}
+
+
+.details {
+  position: relative;
+  margin-left: 35%;
+}

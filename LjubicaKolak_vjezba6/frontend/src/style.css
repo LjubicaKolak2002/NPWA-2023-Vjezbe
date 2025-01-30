@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  margin-left: 10pt;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #ebebe0;
+}
+
+.selectDiv {
+  position: relative;
+  margin-left: 20%;
+  margin-top: 70px;
+}
+
+h3,
+h2 {
+  margin-top: 40px;
+  color: rgb(26, 55, 26);
+  position: relative;
+  margin-left: 3%;
+}
+
+h2 {
+  position: relative;
+  margin-left: 2px;
+}
+
+select {
+  height: 25px;
+}
+
+.filteredProductsDiv {
+  position: relative;
+  margin-left: 50%;
+  margin-top: -12%;
+}
+
+button {
+  background-color: rgb(39, 77, 39);
+  color: white;
+  font-size: 14px;
+  padding: 7px 15px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  margin-left: 20px;
+}
+
+.details {
+  position: relative;
+  margin-left: 35%;
+}
+
+.cartButton {
+  margin-top: 420px;
+  margin-left: 1250px;
+}
+
+.link {
+  background-color: #fff;
+}
+.modal {
+  background-color: #fff;
+  position: absolute; 
+  left: 45%; 
+  top: 50%; 
+  transform: translate(-45%, -50%); 
+  padding: 20px;
+  border-radius: 12px;
+}
+
+h4, p, .buttons{
+  background-color: #fff;
+}
+
+.yesButton, .noButton {
+  position: relative;
+  left: 15px;
+}
+
+.cartTittle {
+  text-align: center;
+}
+
+.cartContainer {
+  width: 70%;
+  margin: auto;
+}
+
+.cartTitle {
+  text-align: center;
+}
+
+.cartItemsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.cartItem {
+  border: 1px solid  rgb(48, 98, 48);
+  padding: 10px;
+  margin: 10px auto; 
+  width: 25%;
+  text-align: center; 
+}
+
+.cartItem + .cartItem {
+  margin-top: 10px; 
+}
+
+
+.cartSummary {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.homeLink{
+  position: relative;
+  left: -120px;
+  top: 40px;
+  color:  rgb(48, 98, 48);
+  font-weight: 700;
+}
+
+.cartLink {
+  position: relative;
+  top: 20px;
+  left: 1000px;
+  font-weight: 700;
+  color:  rgb(48, 98, 48);
+}
